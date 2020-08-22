@@ -20,3 +20,6 @@ python3 HashRipper.py
 <h2>ფოტო</h2>
 
 ![Preview](https://i.ibb.co/KGLTQhc/foto-no-exif.png)
+
+<h2>ვიდეო</h2>
+<a href="https://www.youtube.com/watch?v=zvoIyxXlSAw"><img src="https://i.ibb.co/YtbjQXM/maxresdefault.png" style="max-width:100%;"></a>
