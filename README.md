@@ -1,2 +1,2 @@
 # HashRipper
-Hash Generator &amp; Cracker
+Python3-ით დაწერილი სწრაფი ჰეშის კრეკერი და გენერატორი (მხარს უჭერს: MD-5, SHA-1, SHA-256, SHA-512 SHA-224)
