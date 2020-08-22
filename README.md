@@ -4,6 +4,8 @@
   <a href="https://twitter.com/anonimaluri"><img src="http://i.imgur.com/tXSoThF.png">
     <a href="https://github.com/AnonymousFromGeorgia"><img src="http://i.imgur.com/0o48UoR.png"></p>
 
+<p align="left"><a href="https://fsociety.ge"><img src="https://i.ibb.co/kBRDXcS/foto-no-exif.png"><b>fsociety.ge</b></p>
+
 <h6>Coded by S4RR4</h6>
 <h6>Contributed by გიო რგი</h6>
 
